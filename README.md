@@ -35,4 +35,4 @@ INSTALL
  
  Julio Cabria - julicabria@outlook.com
  Official Website - https://conflux.carrd.co/
- GitHub - https://github.com/Julynx/conflux_main
+ GitHub - https://github.com/Julynx/conflux_sublime
