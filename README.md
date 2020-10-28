@@ -12,7 +12,7 @@ INSTALL
 
 3. Then put the .tmTheme file you just downloaded from github inside the “Conflux” folder
 
-4. Now you should be able to select your custom theme browsing Preferences -> Color Scheme -> Conflux
+4. Now you should be able to select the theme browsing Preferences -> Color Scheme -> Conflux
 
  LICENSING
 
