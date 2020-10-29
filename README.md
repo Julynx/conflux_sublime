@@ -1,4 +1,8 @@
-# conflux_sublime
+# Conflux Sublime
+
+Conflux color theme for Sublime.
+
+![alt text](Sublime_Conflux.png)
 
 DESCRIPTION
 
